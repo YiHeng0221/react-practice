@@ -1,17 +1,17 @@
 {
   "files": {
-    "main.js": "/YiHeng0221/react-practice.git/static/js/main.1cc63638.chunk.js",
-    "main.js.map": "/YiHeng0221/react-practice.git/static/js/main.1cc63638.chunk.js.map",
-    "runtime-main.js": "/YiHeng0221/react-practice.git/static/js/runtime-main.57f1674a.js",
-    "runtime-main.js.map": "/YiHeng0221/react-practice.git/static/js/runtime-main.57f1674a.js.map",
-    "static/js/2.a63d4e33.chunk.js": "/YiHeng0221/react-practice.git/static/js/2.a63d4e33.chunk.js",
-    "static/js/2.a63d4e33.chunk.js.map": "/YiHeng0221/react-practice.git/static/js/2.a63d4e33.chunk.js.map",
-    "index.html": "/YiHeng0221/react-practice.git/index.html",
-    "static/js/2.a63d4e33.chunk.js.LICENSE.txt": "/YiHeng0221/react-practice.git/static/js/2.a63d4e33.chunk.js.LICENSE.txt"
+    "main.js": "/react-practice/static/js/main.005da99a.chunk.js",
+    "main.js.map": "/react-practice/static/js/main.005da99a.chunk.js.map",
+    "runtime-main.js": "/react-practice/static/js/runtime-main.28a95f30.js",
+    "runtime-main.js.map": "/react-practice/static/js/runtime-main.28a95f30.js.map",
+    "static/js/2.6c0adf1c.chunk.js": "/react-practice/static/js/2.6c0adf1c.chunk.js",
+    "static/js/2.6c0adf1c.chunk.js.map": "/react-practice/static/js/2.6c0adf1c.chunk.js.map",
+    "index.html": "/react-practice/index.html",
+    "static/js/2.6c0adf1c.chunk.js.LICENSE.txt": "/react-practice/static/js/2.6c0adf1c.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
-    "static/js/runtime-main.57f1674a.js",
-    "static/js/2.a63d4e33.chunk.js",
-    "static/js/main.1cc63638.chunk.js"
+    "static/js/runtime-main.28a95f30.js",
+    "static/js/2.6c0adf1c.chunk.js",
+    "static/js/main.005da99a.chunk.js"
   ]
 }
